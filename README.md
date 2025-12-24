@@ -23,13 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafoloo&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafoloo&layout=compact&langs_count=6&theme=tokyonight" />
-</p>
-
 
 ---
 
@@ -42,10 +35,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rafoloo/Rafoloo/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 
 ---
