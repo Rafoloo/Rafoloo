@@ -47,6 +47,7 @@
   <img src="https://raw.githubusercontent.com/Rafoloo/Rafoloo/output/github-contribution-grid-snake-dark.svg">
 </p>
 
+
 ---
 
 ## 🎬 Cool typing animation
