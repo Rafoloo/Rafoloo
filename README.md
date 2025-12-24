@@ -44,9 +44,8 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Rafoloo/Rafoloo/output/github-contribution-grid-snake-dark.svg">
 </p>
-
 
 ---
 
